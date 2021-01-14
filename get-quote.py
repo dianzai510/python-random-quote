@@ -1,4 +1,4 @@
-def main():
+def mainmain():
   # print("Keep it logically awesome.")
   # print("Keep it logically awesome.")
 
